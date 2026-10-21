@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://brandlogos.net/wp-content/uploads/2025/02/calendly-logo.png" alt="MSI Afterburner Logo"/>
+  <img src="https://cdn2.steamgriddb.com/icon/0366cd91ea30dd83c73415b64afda334/32/1024x1024.png" alt="MSI Afterburner Logo"/>
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@ Monitoring utilities can help users compare graphics behavior across different w
 The msi afterburner software interface brings supported monitoring and tuning functions together. Users should understand each control before changing settings that can affect hardware behavior.
 
 <div align="center">
-  <img src="https://i.ytimg.com/vi/hY678TbQR5U/maxresdefault.jpg" alt="MSI Afterburner Screenshot"/>
+  <img src="https://hyperpc.ru/images/support/articles/monitoring-fps-and-temperature-in-games/content/monitoring-fps-and-temperature-in-games-content-01.jpg" alt="MSI Afterburner Screenshot"/>
 </div>
 
 ---
